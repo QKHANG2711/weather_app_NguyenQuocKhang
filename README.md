@@ -158,3 +158,7 @@ flutter run -d chrome --web-browser-flag "--no-sandbox"
     * Icon
 
 ---
+
+
+## Màn hình giao diện
+![Giao Diện màn hình chính](./img/img.png)
